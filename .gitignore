@@ -1,0 +1,20 @@
+
+# Exclude raw and processed datasets
+/data/raw/
+/data/processed/
+
+# Python temporary files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Logs and temporary files
+*.log
+.DS_Store
+Thumbs.db
