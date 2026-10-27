@@ -115,7 +115,7 @@ Provides a high-level summary of business performance through KPI cards and char
 - Sales by Customer Segment
 - Sales by Product Category
 
-![Executive Overview](power%20bi/screenshots/CEO%20Executive%20Intelligence%20Dashboard_page-0001.jpg)
+<img width="3075" height="1763" alt="CEO Executive Intelligence Dashboard_page-0001" src="https://github.com/user-attachments/assets/1e18ee8f-406f-4240-8132-8d1df4b71dd8" />
 
 ### 2. Sales & Product Performance
 
@@ -126,7 +126,7 @@ Analyzes product-level and category-level sales and reported profit.
 - Sales vs. Reported Profit by Category
 - Product Category Sales Ranking
 
-![Sales and Product Performance](power%20bi/screenshots/CEO%20Executive%20Intelligence%20Dashboard_page-0002.jpg)
+<img width="3075" height="1763" alt="CEO Executive Intelligence Dashboard_page-0002" src="https://github.com/user-attachments/assets/8d9bd57b-f172-40f4-88b3-541dc8c3722b" />
 
 ### 3. Customer Intelligence
 
@@ -137,7 +137,7 @@ Compares customer segments to understand their contribution to business performa
 - Customers by Segment
 - Average Sales per Customer by Segment
 
-![Customer Intelligence](power%20bi/screenshots/CEO%20Executive%20Intelligence%20Dashboard_page-0003.jpg)
+<img width="3075" height="1763" alt="CEO Executive Intelligence Dashboard_page-0003" src="https://github.com/user-attachments/assets/c4ea9d69-a8a5-43bb-8fd5-516e3f5c42cd" />
 
 ### 4. Geographic Performance
 
@@ -148,7 +148,7 @@ Explores geographic sales distribution and differences in market activity.
 - Top 10 Countries by Order Volume
 - Sales by Market
 
-![Geographic Performance](power%20bi/screenshots/CEO%20Executive%20Intelligence%20Dashboard_page-0004.jpg)
+<img width="3075" height="1763" alt="CEO Executive Intelligence Dashboard_page-0004" src="https://github.com/user-attachments/assets/fb55dc81-295c-4b9b-8c5c-f5ae213c6035" />
 
 ### 5. Shipping & Delivery Risk
 
@@ -159,7 +159,7 @@ Examines shipping duration, delivery outcomes, and late-delivery risk.
 - Delivery Status Distribution
 - Late Delivery Risk by Shipping Mode and Status
 
-![Shipping and Delivery Risk](power%20bi/screenshots/CEO%20Executive%20Intelligence%20Dashboard_page-0005.jpg)
+<img width="3075" height="1763" alt="CEO Executive Intelligence Dashboard_page-0005" src="https://github.com/user-attachments/assets/fad7bbf0-77e2-4b43-90df-568fbbc7c2fb" />
 
 ## Key Findings
 
