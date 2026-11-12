@@ -242,3 +242,7 @@ SQL scripts may need to be executed in their intended sequence. Database names, 
 Aspiring Data Analyst | SQL | Python | PostgreSQL | Power BI
 
 This project demonstrates practical skills in data cleaning, relational data modeling, SQL analytics, KPI development, data visualization, and business-oriented reporting.
+
+## Portfolio Website
+
+This repository includes an interactive case study at `index.html`. See the [GitHub Pages publishing guide](docs/github-pages.md) for local preview and deployment.
